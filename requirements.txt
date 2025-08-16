@@ -1,0 +1,7 @@
+# Dependencias principales de la aplicación
+customtkinter==5.2.0
+pillow==10.0.1
+pystray==0.19.4
+
+# Dependencias para generar el instalador
+pyinstaller==6.1.0
